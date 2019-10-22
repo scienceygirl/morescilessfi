@@ -4004,3 +4004,8 @@ input, select, textarea {
 			max-height: 340.9px;
 		}
 	}
+
+	h5.date {
+	margin-top: -18px;
+	}
+
